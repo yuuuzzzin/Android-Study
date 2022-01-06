@@ -2,7 +2,7 @@
 
 안드로이드에서 데이터를 저장하는 방식에는 여러가지가 있습니다.
 
-**1. SharedPreferences **
+**1. SharedPreferences**
 - 적은 양의 원시 데이터를 (key, value) 형태로 앱 안에 XML 파일로 저장합니다.
 
 **2. Room**

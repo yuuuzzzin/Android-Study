@@ -10,3 +10,5 @@
 - [의존성 주입(DI)이란 (with dagger2, koin, hilt 비교)](https://github.com/yuuuzzzin/Android-Study/blob/main/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85(DI)%EC%9D%B4%EB%9E%80%20(with%20dagger2%2C%20koin%2C%20hilt%20%EB%B9%84%EA%B5%90).md)
   
 - [멀티모듈에서 buildSrc + Kotlin DSL로 Dependency 관리하기](https://github.com/yuuuzzzin/Android-Study/blob/main/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88%EC%97%90%EC%84%9C%20buildSrc%20%2B%20Kotlin%20DSL%EB%A1%9C%20Dependency%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+
+- [local.properties를 통해 API key 안전하게 보관하기](https://github.com/yuuuzzzin/Android-Study/blob/b5d95c1cd4e503d41533b76046a2c1d091126639/local.properties%EB%A5%BC%20%ED%86%B5%ED%95%B4%20API%20key%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20%EB%B3%B4%EA%B4%80%ED%95%98%EA%B8%B0.md)
